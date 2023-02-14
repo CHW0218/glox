@@ -1,1 +1,1 @@
-# glox
+# goloxy
