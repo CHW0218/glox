@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+      "appendf",
+      "arity",
+      "chzyer",
+      "consts",
+      "Debugf",
+      "Debugln",
+      "Errorln",
+      "falsey",
+      "golox",
+      "hashicorp",
+      "instanceof",
+      "Nullary",
+      "stretchr",
+      "upval",
+      "upvals",
+      "upvalue"
+    ],
+    "gopls": {
+        "build.allowModfileModifications": true
+        }
+  }
